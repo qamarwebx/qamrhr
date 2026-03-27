@@ -4,6 +4,7 @@
 // NOTE: All the below routes are just for demo, you can remove all of them and create your own routes as per your requirements.
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+
 use Illuminate\Support\Facades\Route;
     use App\Http\Controllers\laravel_example\UserManagement;
     use App\Http\Controllers\dashboard\Analytics;
