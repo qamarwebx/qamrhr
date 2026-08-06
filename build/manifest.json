@@ -11,9 +11,9 @@
     "file": "assets/index-eQWVPmsa.js",
     "name": "index"
   },
-  "_index.html": {
-    "file": "index.html",
-    "src": "_index.html"
+  "_index": {
+    "file": "index",
+    "src": "_index"
   },
   "_jquery-BQXThELV.js": {
     "file": "assets/jquery-BQXThELV.js",

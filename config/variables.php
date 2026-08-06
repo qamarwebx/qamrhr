@@ -19,7 +19,7 @@ return [
   "ogType" => "product",
   "documentation" => "https://demos.pixinvent.com/vuexy-html-admin-template/documentation",
   "generator" => "",
-  "changelog" => "https://demos.pixinvent.com/vuexy/changelog.html",
+  "changelog" => "https://demos.pixinvent.com/vuexy/changelog",
   "repository" => "https://github.com/pixinvent/vuexy-html-laravel-admin-template",
   "gitRepo" => "vuexy-html-laravel-admin-template",
   "gitRepoAccess" => "https://tools.pixinvent.com/github/github-access",

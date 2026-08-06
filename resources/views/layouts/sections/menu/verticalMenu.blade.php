@@ -25,7 +25,7 @@
         <li class="menu-item"><a href="/app/logistics/dashboard" class="menu-link">Logistics</a></li>
         <li class="menu-item"><a href="/app/academy/dashboard" class="menu-link">Academy</a></li>
       </ul>
-    </li> -->
+    </li> 
 
     <!-- Layouts -->
     <!-- <li class="menu-item">
@@ -174,7 +174,7 @@
 
     <!-- Docs -->
     <!-- <li class="menu-item">
-      <a href="https://demos.pixinvent.com/vuexy-html-admin-template/documentation/laravel-introduction.html"
+      <a href="https://demos.pixinvent.com/vuexy-html-admin-template/documentation/laravel-introduction"
          target="_blank" class="menu-link">
         <i class="menu-icon ti tabler-file-description"></i>
         <div>Documentation</div>

@@ -1100,7 +1100,7 @@
       "target": "_blank"
     },
     {
-      "url": "https://demos.pixinvent.com/vuexy-html-admin-template/documentation/laravel-introduction.html",
+      "url": "https://demos.pixinvent.com/vuexy-html-admin-template/documentation/laravel-introduction",
       "icon": "menu-icon icon-base ti tabler-file-description",
       "name": "Documentation",
       "slug": "documentation",

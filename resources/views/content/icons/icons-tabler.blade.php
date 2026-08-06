@@ -161,7 +161,7 @@
   <!-- Buttons -->
   <div class="d-flex justify-content-center mx-auto gap-4">
     <a href="https://tabler-icons.io/" target="_blank" class="btn btn-primary">View All Icons</a>
-    <a href="{{ config('variables.documentation') }}/Icons.html" class="btn btn-primary" target="_blank">How to use
+    <a href="{{ config('variables.documentation') }}/Icons" class="btn btn-primary" target="_blank">How to use
       icons?</a>
   </div>
 @endsection
